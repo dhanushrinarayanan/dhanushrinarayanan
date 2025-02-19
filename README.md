@@ -14,19 +14,25 @@
 - 🌟 Always exploring innovative solutions in AI  
 - 📌 Open to collaboration and learning new technologies  
 
----
-
 ### 🛠️ Skills & Tools  
 #### **📌 Technical Skills:**  
 - 💻 **Programming:** Java, C, SQL  
 - 🧠 **AI/ML:** Machine Learning, NLP  
 - 📊 **Data Visualization:** Power BI, Tableau  
 
+## 🔥 Projects  
+### 🏥 **AI in Healthcare**  
+- **[🧠 Brain Tumor Detection using CNN]** – Classifies MRI scans into tumor types  
+- **[📊 Lung Cancer Prediction with XAI]** – Explainable AI model for lung cancer diagnosis  
+- **[🩸 Diabetic Retinopathy Detection]** – Multimodal fusion approach for retinal disease detection
+
+  ## 📜 Certifications  
+✅ **Google Cloud Career Launchpad – Cloud Engineer**  
+✅ **AI & ML Courses – Coursera, Udemy**  
+
 #### **🔧 Tools & Platforms:**  
 - 🎨 **Design & Prototyping:** Canva, Figma  
 - 🖥️ **Development Environments:** Google Colab  
-
----
 
 ### 📂 Checkout My Work!  
 
